@@ -1,12 +1,12 @@
 let modInfo = {
-	name: "The ??? Tree",
-	author: "nobody",
+	name: "Project Epsilon",
+	author: "augieissmart13",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
-
+	id: "project-epsilon-is-super-fun",
 	discordName: "",
 	discordLink: "",
-	initialStartPoints: new Decimal (10), // Used for hard resets and new players
+	initialStartPoints: new Decimal (0), // Used for hard resets and new players
 	offlineLimit: 1,  // In hours
 }
 
